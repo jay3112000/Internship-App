@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334637352178",
+    "firebase_url": "https://akhdar-294505.firebaseio.com",
+    "project_id": "akhdar-294505",
+    "storage_bucket": "akhdar-294505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334637352178:android:fb5aef12a2557458f9fc6b",
+        "android_client_info": {
+          "package_name": "com.akhdar.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334637352178-rvf7rjpet8djs5rkf5sdcl72bmusfunh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNHZ5GymCT4ogeZ7Mgb5wl8E2O5qQvtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334637352178-rvf7rjpet8djs5rkf5sdcl72bmusfunh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
