@@ -5,7 +5,7 @@ Project uses Flutter and Dart language and MVC architecture as a State Managemen
 I build the UI/UX and the State Management functions and handled the API calls
 The system uses the users current location and automatically links to the nearest market available in the radius
 The backend is hosted on the private site of the company 
-GIVE A STAR IF U FIND THIS USEFUL
+
 FEATURES-
 1) User authentication using email/password and mobile number
 2) An easy to understand user friendly UI
